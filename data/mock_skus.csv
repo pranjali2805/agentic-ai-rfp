@@ -1,0 +1,6 @@
+sku,product_name,conductor_mm2,insulation,voltage_kv,temperature_rating_C,unit_price
+SKU-A-10XL,PowerFlex 10mm2 XLPE,10,XLPE,0.66,90,1200
+SKU-B-10PVC,Generic 10mm2 PVC,10,PVC,0.66,70,950
+SKU-C-1.5PVC,Control 1.5mm2 PVC,1.5,PVC,0.5,70,150
+SKU-D-16XL,ArmourPro 16mm2 XLPE,16,XLPE,1.1,90,2000
+SKU-E-16PVC,ArmourLite 16mm2 PVC,16,PVC,1.1,70,1700

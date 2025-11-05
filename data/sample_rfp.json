@@ -1,0 +1,38 @@
+{
+  "id": "RFP-AP-2025-001",
+  "title": "Supply of Industrial Cables - Phase 1",
+  "due_date": "2025-11-30",
+  "buyer": "PSU InfraTech Pvt Ltd",
+  "items": [
+    {
+      "item_id": "I1",
+      "description": "Power Cable 4-core 10mm2",
+      "specs": {
+        "conductor_mm2": 10,
+        "insulation": "XLPE",
+        "voltage_kv": 0.66,
+        "temperature_rating_C": 90
+      }
+    },
+    {
+      "item_id": "I2",
+      "description": "Control Cable 4-core 1.5mm2",
+      "specs": {
+        "conductor_mm2": 1.5,
+        "insulation": "PVC",
+        "voltage_kv": 0.5,
+        "temperature_rating_C": 70
+      }
+    },
+    {
+      "item_id": "I3",
+      "description": "Armoured Cable 3-core 16mm2",
+      "specs": {
+        "conductor_mm2": 16,
+        "insulation": "XLPE",
+        "voltage_kv": 1.1,
+        "temperature_rating_C": 90
+      }
+    }
+  ]
+}

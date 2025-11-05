@@ -1,0 +1,4 @@
+item_id,item_description,sku,product_name,match_score,quantity,unit_price,material_cost,tests,tests_cost_per_unit,total_cost
+ITM-001,Power Cable 4-core 10mm2 XLPE,SKU-A-10XL,PowerFlex 10mm2 XLPE,100.0,100,1200,120000,"Tensile Test, Insulation Resistance, Voltage Withstand Test",1200,240000
+ITM-002,Control Cable 4-core 1.5mm2 PVC,SKU-C-1.5PVC,Control 1.5mm2 PVC,100.0,100,150,15000,"Tensile Test, Insulation Resistance, Voltage Withstand Test",1200,135000
+ITM-003,Armoured Cable 3-core 16mm2 XLPE,SKU-D-16XL,ArmourPro 16mm2 XLPE,100.0,100,2000,200000,"Tensile Test, Insulation Resistance, Voltage Withstand Test, Armor Integrity Test",1550,355000

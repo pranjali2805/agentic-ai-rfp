@@ -1,0 +1,10 @@
+item_id,item_description,sku,product_name,match_score,unit_price
+ITM-001,Power Cable 4-core 10mm2 XLPE,SKU-A-10XL,PowerFlex 10mm2 XLPE,100.0,1200
+ITM-001,Power Cable 4-core 10mm2 XLPE,SKU-B-10PVC,Generic 10mm2 PVC,50.0,950
+ITM-001,Power Cable 4-core 10mm2 XLPE,SKU-D-16XL,ArmourPro 16mm2 XLPE,50.0,2000
+ITM-002,Control Cable 4-core 1.5mm2 PVC,SKU-C-1.5PVC,Control 1.5mm2 PVC,100.0,150
+ITM-002,Control Cable 4-core 1.5mm2 PVC,SKU-B-10PVC,Generic 10mm2 PVC,50.0,950
+ITM-002,Control Cable 4-core 1.5mm2 PVC,SKU-E-16PVC,ArmourLite 16mm2 PVC,50.0,1700
+ITM-003,Armoured Cable 3-core 16mm2 XLPE,SKU-D-16XL,ArmourPro 16mm2 XLPE,100.0,2000
+ITM-003,Armoured Cable 3-core 16mm2 XLPE,SKU-A-10XL,PowerFlex 10mm2 XLPE,50.0,1200
+ITM-003,Armoured Cable 3-core 16mm2 XLPE,SKU-E-16PVC,ArmourLite 16mm2 PVC,50.0,1700
